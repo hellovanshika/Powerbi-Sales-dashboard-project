@@ -19,3 +19,7 @@ I also faced a few challenges. The initial dataset was very large, which caused 
 
 Overall, this project demonstrates my ability to work end-to-end in Power BI—from data preparation and modeling to visualization and business insights.
 
+**NOTE**
+If you are not able to see dashboard here you can save that raw file.
+
+
